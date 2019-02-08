@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SpinnerDemos</string>
+    <string-array name="CountryName">
+        <item>India</item>
+        <item>United States</item>
+        <item>Australia</item>
+        <item>Sourth Africa</item>
+        <item>Pakistan</item>
+        <item>Srilanka</item>
+        <item>Canada</item>
+        <item>Russia</item>
+        <item>Iran</item>
+        <item>Iraq</item>
+        <item>Mexico</item>
+        <item>West Indies</item>
+        <item>Bangladesh</item>
+        <item>China</item>
+        <item>Japan</item>
+        <item>Dubai</item>
+        <item>HonKong</item>
+    </string-array>
+</resources>
